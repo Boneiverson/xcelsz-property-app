@@ -1,5 +1,5 @@
 import React from 'react'
-import PropertyDetails from './PropertyDetails.jsx'
+import PropertyDetails from './propertyDetails.jsx'
 
 function App() {
   return (
