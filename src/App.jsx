@@ -14,7 +14,6 @@ export default function App(props) {
       <Route path="/" element={<HomePage />} />
       <Route path="/home" element={<HomePage />} />
       <Route path="/properties" element={<PropertiesPage />} />
-      <Route path="/property-detail/:propertyId" element={<PropertyDetailsPage />} />
       <Route path="/add-property" element={<AddPropertyPage/>}/>
     </Routes>
   )
